@@ -43,7 +43,7 @@ pip install pytz
 Run the app
 
 python clock_app.py
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Explore the tabs
 
 Clock: View analog + digital local time.
@@ -53,7 +53,7 @@ Stopwatch: Track activity or study sessions.
 Timer: Set reminders or breaks.
 
 Timezone: Compare times worldwide.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🖼️ UI Layout
 
 Tabs managed with ttk.Notebook
