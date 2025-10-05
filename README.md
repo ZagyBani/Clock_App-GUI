@@ -6,7 +6,7 @@ Overview
 This Python Clock App is a sleek, all-in-one time management utility built using Tkinter.
 It combines analog and digital clocks, a stopwatch, a customizable countdown timer, and a timezone viewer into one intuitive interface.
 Perfect for students, developers, or anyone who loves functional desktop tools with clean UI design.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Features
 
 🕰️ Analog & Digital Clock: Real-time local clock with smooth updates.
@@ -32,7 +32,7 @@ tkinter (GUI)
 pytz (Timezone handling)
 
 datetime, math, time (Core logic)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 How to Run
 
 Install dependencies
@@ -43,8 +43,7 @@ pip install pytz
 Run the app
 
 python clock_app.py
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Explore the tabs
 
 Clock: View analog + digital local time.
@@ -84,8 +83,7 @@ ClockApp/
 ├── README.md          # Documentation (this file)
 └── requirements.txt   # Optional dependency list
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚖️ License
 
