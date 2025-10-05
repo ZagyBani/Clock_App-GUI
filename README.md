@@ -2,7 +2,7 @@
 
 🕒 Clock App – Multi-Function Time Utility (Tkinter GUI)
 Overview
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This Python Clock App is a sleek, all-in-one time management utility built using Tkinter.
 It combines analog and digital clocks, a stopwatch, a customizable countdown timer, and a timezone viewer into one intuitive interface.
 Perfect for students, developers, or anyone who loves functional desktop tools with clean UI design.
