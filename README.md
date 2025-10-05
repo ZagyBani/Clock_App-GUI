@@ -95,6 +95,6 @@ This project is open-source under the MIT License — free to use, modify, and s
 👨‍💻 Author
 
 Developed by: Rishiraj Goswami, B.CA, CEH & CCNP
-              CEO & Co-Founder at KAVASRI
+              | CEO & Co-Founder at KAVASRI
 
 Keywords: Python, Tkinter, Clock, Stopwatch, Timer, Timezone, GUI
