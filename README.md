@@ -1,4 +1,4 @@
-# Clock App (KAVASRI)
+# Clock GUI App (KAVASRI)
 
 **Short summary**  
 A cross-platform Python desktop app that provides an analog & digital clock, stopwatch, countdown timer, and timezone viewer. Designed for lightweight, real-time time management and productivity tracking with a modern Tkinter interface.
